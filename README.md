@@ -97,3 +97,4 @@ Session มีอายุ 6 ชั่วโมง เก็บ token ใน Htt
 API อ่าน snapshot ของตารางทั้งหมดต่อคำขอเพื่อใช้ validation เดิม เหมาะกับขนาดข้อมูลโรงเรียนในไฟล์นี้ หากจำนวนรายการโตมากควรเพิ่ม pagination และ query เฉพาะปีงบประมาณ จำกัด payload 5 MB ต่อคำขอ ให้แบ่งไฟล์นำเข้าที่ใหญ่กว่านั้น
 
 อ้างอิง: [Pages configuration](https://developers.cloudflare.com/pages/functions/wrangler-configuration/), [D1 migrations](https://developers.cloudflare.com/d1/reference/migrations/), [Node crypto](https://developers.cloudflare.com/workers/runtime-apis/nodejs/crypto/), [SheetJS package ทางการ](https://docs.sheetjs.com/docs/getting-started/installation/nodejs/)
+"# budget" 
