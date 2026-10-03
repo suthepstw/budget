@@ -98,3 +98,5 @@ API อ่าน snapshot ของตารางทั้งหมดต่อ
 
 อ้างอิง: [Pages configuration](https://developers.cloudflare.com/pages/functions/wrangler-configuration/), [D1 migrations](https://developers.cloudflare.com/d1/reference/migrations/), [Node crypto](https://developers.cloudflare.com/workers/runtime-apis/nodejs/crypto/), [SheetJS package ทางการ](https://docs.sheetjs.com/docs/getting-started/installation/nodejs/)
 "# budget" 
+#   b u d g e t  
+ 
