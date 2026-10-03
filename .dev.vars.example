@@ -1,0 +1,2 @@
+# Copy this file to .dev.vars for LOCAL development. Choose your own long token.
+SETUP_TOKEN="replace-with-your-own-long-random-setup-token"

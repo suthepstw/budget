@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0C7C82">
+<title>ระบบติดตามงบประมาณค่าใช้สอย</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;500;600;700;800&display=swap">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+<!-- Boot splash -->
+<div id="boot" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;background:#F3F8F8;z-index:3000">
+  <div class="spin"></div>
+  <div style="color:#5E7B7E;font-weight:600">กำลังโหลดระบบ...</div>
+</div>
+
+<!-- Login -->
+<div id="loginView" hidden class="min-h-full flex items-center justify-center p-4" style="background:radial-gradient(1200px 600px at 10% -10%,#D3EEEC 0%,transparent 60%),radial-gradient(900px 500px at 110% 110%,#E3F2D5 0%,transparent 55%),#F3F8F8">
+  <div class="w-full max-w-[420px] fade-in">
+    <div class="card p-7 sm:p-8" style="border-radius:26px;box-shadow:var(--shadow-md)">
+      <div class="flex flex-col items-center text-center gap-3 mb-6">
+        <div id="loginLogo" class="logo-prev" style="width:84px;height:84px"><i data-lucide="school"></i></div>
+        <div>
+          <div id="loginSchool" class="text-xl font-bold">โรงเรียน</div>
+          <div id="loginAff" class="text-sm text-muted"></div>
+        </div>
+        <span class="badge b-brand"><i data-lucide="wallet-cards"></i><span id="loginSys">ระบบติดตามงบประมาณค่าใช้สอย</span></span>
+      </div>
+      <form id="loginForm" class="flex flex-col gap-4" autocomplete="on">
+        <label class="field"><span>ชื่อผู้ใช้</span>
+          <div class="search"><i data-lucide="user-round"></i><input id="lgUser" class="input" name="username" autocomplete="username" autocapitalize="none" autocorrect="off" spellcheck="false" inputmode="email" lang="en" required placeholder="username"></div>
+        </label>
+        <label class="field"><span>รหัสผ่าน</span>
+          <div class="search"><i data-lucide="lock"></i><input id="lgPass" class="input" type="password" name="password" autocomplete="current-password" autocapitalize="none" autocorrect="off" spellcheck="false" lang="en" required placeholder="••••••••" style="padding-right:44px">
+            <button type="button" id="lgEye" class="act" style="position:absolute;right:5px;top:5px" aria-label="แสดงรหัสผ่าน"><i data-lucide="eye"></i></button></div>
+        </label>
+        <div id="lgWarn" hidden class="text-sm rounded-xl px-3 py-2 flex items-start gap-2" style="background:#FFF1E0;color:#9A4A00"></div>
+        <label class="flex items-center gap-2 text-sm text-muted cursor-pointer"><input id="lgRemember" type="checkbox" class="chk"> จดจำการเข้าสู่ระบบในเครื่องนี้</label>
+        <button id="lgBtn" class="btn btn-primary w-full" style="height:48px">เข้าสู่ระบบ <i data-lucide="chevron-right"></i></button>
+        <div id="lgErr" hidden class="text-sm rounded-xl px-3 py-2 text-center" style="background:#FDECEC;color:#B71C1C"></div>
+        <button type="button" id="lgForgot" class="text-sm text-brand font-semibold bg-transparent border-0 cursor-pointer">ลืมรหัสผ่าน / เข้าสู่ระบบไม่ได้?</button>
+        <div id="demoHint" hidden class="text-center text-sm rounded-xl p-3" style="background:#FFF8E1;color:#8A6200">บันทึกข้อมูลในฐานข้อมูลส่วนกลาง</div>
+      </form>
+    </div>
+    <p class="text-center text-xs text-muted mt-5">© <span class="yr"></span> ระบบติดตามงบประมาณค่าใช้สอย</p>
+  </div>
+</div>
+
+<!-- App -->
+<div id="app" hidden>
+  <aside id="sidebar" aria-label="เมนูหลัก">
+    <div class="flex items-center gap-3 px-5 pt-5 pb-4">
+      <div id="sbLogo" class="logo-prev shrink-0" style="width:46px;height:46px;border-radius:14px"><i data-lucide="school"></i></div>
+      <div class="min-w-0 flex-1">
+        <div id="sbSchool" class="font-bold leading-tight truncate">โรงเรียน</div>
+        <div class="text-xs text-muted truncate" id="sbSys">ระบบติดตามงบประมาณค่าใช้สอย</div>
+      </div>
+      <button class="act lg:hidden" data-close-menu aria-label="ปิดเมนู"><i data-lucide="x"></i></button>
+    </div>
+    <nav id="navList" class="flex-1 overflow-y-auto px-3 pb-3"></nav>
+    <div class="p-3 border-t border-line">
+      <div id="sbFy" class="rounded-2xl p-3" style="background:var(--brand-50)"></div>
+    </div>
+  </aside>
+  <div id="backdrop" data-close-menu></div>
+
+  <div class="main">
+    <header class="topbar" id="topbar">
+      <div class="flex items-center gap-3 px-4 sm:px-6 h-16">
+        <button class="icon-btn lg:hidden" id="menuBtn" aria-label="เปิดเมนู"><i data-lucide="menu"></i></button>
+        <div class="min-w-0 flex-1">
+          <div id="pageTitle" class="font-bold text-lg leading-tight truncate">แดชบอร์ด</div>
+          <div id="pageSub" class="text-xs text-muted truncate hidden sm:block"></div>
+        </div>
+        <label class="hidden sm:flex items-center gap-2 bg-white border border-line rounded-xl pl-3 h-10" title="ปีงบประมาณที่แสดง">
+          <i data-lucide="calendar-range" class="text-brand"></i>
+          <select id="fySelect" class="bg-transparent outline-none pr-3 font-semibold h-full cursor-pointer"></select>
+        </label>
+        <div class="relative">
+          <button class="icon-btn" id="bellBtn" aria-label="การแจ้งเตือน"><i data-lucide="bell"></i><span id="bellDot" class="dot" hidden></span></button>
+          <div id="bellDd" class="dropdown" hidden style="min-width:300px;max-width:calc(100vw - 32px)"></div>
+        </div>
+        <div class="relative">
+          <button id="userBtn" class="flex items-center gap-2 h-10 pl-1 pr-2 rounded-xl bg-white border border-line cursor-pointer">
+            <span id="avatar" class="w-8 h-8 rounded-lg flex items-center justify-center text-white font-bold text-sm" style="background:linear-gradient(135deg,#0C7C82,#35B4B0)">A</span>
+            <span class="hidden md:block text-left leading-tight"><span id="uName" class="block text-sm font-semibold max-w-[140px] truncate"></span><span id="uRole" class="block text-[11px] text-muted"></span></span>
+            <i data-lucide="chevron-down" class="text-muted hidden md:block"></i>
+          </button>
+          <div id="userDd" class="dropdown" hidden>
+            <button class="dd-item" data-act="profile"><i data-lucide="user-cog"></i>ข้อมูลส่วนตัว</button>
+            <button class="dd-item" data-act="password"><i data-lucide="key-round"></i>เปลี่ยนรหัสผ่าน</button>
+            <button class="dd-item" data-act="refresh"><i data-lucide="refresh-cw"></i>โหลดข้อมูลใหม่</button>
+            <div class="h-px bg-line my-1"></div>
+            <button class="dd-item" data-act="logout" style="color:var(--bad)"><i data-lucide="log-out"></i>ออกจากระบบ</button>
+          </div>
+        </div>
+      </div>
+      <div class="sm:hidden px-4 pb-3">
+        <label class="flex items-center gap-2 bg-white border border-line rounded-xl pl-3 h-10">
+          <i data-lucide="calendar-range" class="text-brand"></i>
+          <select id="fySelectM" class="bg-transparent outline-none pr-3 font-semibold h-full flex-1"></select>
+        </label>
+      </div>
+    </header>
+
+    <main id="view" class="flex-1 px-4 sm:px-6 py-5" style="min-width:0"></main>
+
+    <footer id="footer" class="px-4 sm:px-6 py-5 text-xs text-muted border-t border-line bg-white/60"></footer>
+  </div>
+
+  <nav id="bottomNav" aria-label="เมนูมือถือ">
+    <button class="bn" data-go="dashboard"><i data-lucide="house"></i>หน้าหลัก</button>
+    <button class="bn" data-go="transactions"><i data-lucide="receipt-text"></i>รายการ</button>
+    <button class="bn" id="fabAdd" aria-label="เพิ่มรายการ"><span class="bn-fab"><i data-lucide="plus"></i></span></button>
+    <button class="bn" data-go="reports"><i data-lucide="printer"></i>รายงาน</button>
+    <button class="bn" id="bnMenu"><i data-lucide="layout-grid"></i>เมนู</button>
+  </nav>
+</div>
+
+<div id="modalRoot"></div>
+<div id="loader" hidden><div class="loader-card"><div class="spin"></div><span id="loaderText">กำลังประมวลผล...</span></div></div>
+<div id="printArea"></div>
+
+
+
+
+
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>

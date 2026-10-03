@@ -1,0 +1,3462 @@
+[
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าตอบแทน",
+    "voucher_no": "บจ.1/69",
+    "description": "ค่าวิทยากร",
+    "amount": 50,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-02T08:05:07.867Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าตอบแทน",
+    "voucher_no": "บจ.1/2569",
+    "description": "ค่าวิทยากร",
+    "amount": 50,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-02T08:26:04.831Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าบริการ",
+    "amount": 31000,
+    "month": 2,
+    "year": 2569,
+    "created_at": "2026-04-02T08:40:18.552Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าใช้สอย ค่าจ้างบริการรักษาความปลอดภัยเดือนมกราคม 2569",
+    "amount": 31000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T03:56:09.535Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ2/69",
+    "description": "ค่าจ้างชั่วคราว ค่าจ้างพนักงานชาย ,หญิง, เจ้าหน้าที่พยาบาลฯลฯ",
+    "amount": 116150,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T03:58:19.601Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าจ้างชั่วคราว ค่าจ้างสอนภาษาอังกฤษเดือนมกราคม 2569",
+    "amount": 35000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:00:06.848Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ2/69",
+    "description": "ค่าจ้างชั่วคราว ค่าจ้างสอนภาษาอังกฤษเดือนมกราคม 2569",
+    "amount": 135000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:00:36.397Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ3/69",
+    "description": "เงินอื่นๆ จ่ายสมทบผู้ประกันตนฝ่ายนายจ้าง เดือนมกราคม 2569",
+    "amount": 3500,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:02:23.666Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ4/69",
+    "description": "เงินอื่นๆ จ่ายสมทบผู้ประกันตนฝ่ายนายจ้างเดือน มกราคม 2569",
+    "amount": 875,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:04:28.050Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "เงินอื่นๆ จ่ายสมทบผู้ประกันตนฝ่ายลูกจ้างเดือน มกราคม 2569",
+    "amount": 4375,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:05:43.246Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าใช้สอย ค่าจ้างเหมารถตู้ปรับอากาศสตูล-กรุงเทพฯ 20-24 ม.ค. 69",
+    "amount": 19000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:07:54.887Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "เงินปัจจัยพื้นฐานสำหรับเด็กนักเรียนยากจน 2/2568 จำนวน 150คน (225000) เงินทุนเสมอภาคนักเรียน ม.ต้น 2/2568 จำนวน 60 คน (115200)",
+    "amount": 340200,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:16:14.805Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ3/69",
+    "description": "ค่าใช้สอย ซ่อมประตูหน้าต่างอาคารเรียน2",
+    "amount": 38000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:17:29.015Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าใช้สอย ค่าเช่ารถตู้เลขทะเบียน รก 6658 กทม ประจำเดือนมกราคม",
+    "amount": 25000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:41:00.002Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าใช้สอย ค่าใช้สอย ค่าจ้างจัดทำวิดิโอpresent โรงเรียน",
+    "amount": 25000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:43:50.358Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าครุภัณฑ์ HAIER LED TV 55 นิ้ว, TOPPUP TVฯลฯ",
+    "amount": 28560,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:46:27.770Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าวัสดุ หมึกอิงค์เจ็ทFWสีดำ, สีฟ้า",
+    "amount": 46500,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:48:27.928Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าวัสดุ หมึกอิงค์เจ็ท FTสีดำ",
+    "amount": 30000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:49:21.092Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าวัสดุ หินผุและทรายหยาบ",
+    "amount": 9650,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:50:23.837Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าวัสดุ ท่อคู2ท่อน",
+    "amount": 3600,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:51:08.101Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าวัสดุ ฝอยสเตนเลส,ใยขัดเอนกประสงค์",
+    "amount": 375,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:53:16.341Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าวัสดุ กล่องเอนกประสงค์ 80 ลิตร",
+    "amount": 645,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:54:07.653Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าวัสดุ ถังหัวสีดำ 18 cm.",
+    "amount": 600,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:55:03.800Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ14/68",
+    "description": "ค่าวัสดุ น๊อตเหลี่ยม, หัวฆ้อน,แป็ปน้ำบาง",
+    "amount": 494,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:57:03.559Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ15/69",
+    "description": "ค่าใช้สอย ซ่อมเครื่องโรเนียว",
+    "amount": 30073.42,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:57:59.939Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ15/69",
+    "description": "ค่าใช้สอย ปรับปรุงพิ้นหน้าอาคารห้องสมุดฯ",
+    "amount": 17300,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T04:59:28.749Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ17/69",
+    "description": "ค่าใช้สอย ค่าปริ้นรูปถ่ายทำเนียบบุคลากร",
+    "amount": 960,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:00:56.278Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ18/69",
+    "description": "ค่าใช้สอย ป้ายไวนิล ประชุมผู้ปกครอง2/2568",
+    "amount": 675,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:02:26.990Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าใช้สอย ไปราชการนางอทิยาภรณ์ เพชรสลับแก้วและคณะ",
+    "amount": 8460,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:04:00.086Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ20/69",
+    "description": "ค่าใช้สอย ไปราชการนายอรุณ โต๊ะหวันหลงและคณะ",
+    "amount": 720,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:04:57.629Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ2/69",
+    "description": "ค่าใช้สอย ค่าเอกสารเตรียมสอบO-NETวิชาคณิศาสตร์",
+    "amount": 2560,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:06:59.190Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าตอบแทน",
+    "voucher_no": "บจ3/69",
+    "description": "ค่าตอบแทน วิทยากรอบรมติวสอบ O-NET ม.6 วิชาคณิศาสตร์",
+    "amount": 1800,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:08:45.035Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าใช้สอย ค่าจ้างเหมารถตู้ปรับอากาศ",
+    "amount": 4000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:09:41.611Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าใช้สอย ค่าจ้างเหมารถตู้ปรับอากาศ\t สตูล-ปัตตานี",
+    "amount": 4000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:10:51.590Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าใช้สอย ไปราชการนางบุญประภา อุณหะประทีปและคณะ",
+    "amount": 19470,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:12:26.683Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าใช้สอย ไปราชการนายวุฒิพงศ์ ศรีสมโภชและคณะ",
+    "amount": 19200,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:13:38.537Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าช้สอย ไปราชการนางสอฟีย๊ะ เส็นติระและคณะ",
+    "amount": 1200,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:15:03.558Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าใช้สอย ไปราชการนายณภูมิ ขุนเศษและคณะ",
+    "amount": 2280,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:16:29.805Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าใช้สอย ไปราชการนายณภูมิ ขุนเศษและคณะ",
+    "amount": 2280,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:17:44.808Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าใช้สอย ค่าจ้างปริ้นโปสเตอร์งานวิจัย,รูปเล่มโครงการวิทยาศาสตร์ฯ",
+    "amount": 7098,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:19:08.904Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าครุภัณฑ์ หน้าจอแสดงผลขนาด 23.8นิ้ว Acer",
+    "amount": 6780,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:20:40.764Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าใช้สอย ค่าจ้างปริ้นโปสเตอร์เครื่องยับยั้งการเจริญเติบโตของเชื้อรา",
+    "amount": 528,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:22:31.677Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าครุภัณฑ์ หน้าจอแสดงผลขนาด 23.8นิ้ว Acer",
+    "amount": 6780,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:25:09.880Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าใช้สอย ชุดหนังสือE-book สำหรับระบบห้องสมุดอิเล็กทรอนิกส์",
+    "amount": 24998,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:27:29.189Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าใช้สอย ค่าจ้างทำป้ายไวนิลกิจกรรมศึกษาแหล่งเรียนรู้ SMTE ม.ปลาย,โฟมบอร์ด",
+    "amount": 891,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:29:08.623Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าใช้สอย ค่าอาหารกลางวันครู,นักเรียนฝึกซ่อมวิชาการห้องเรียน MEP",
+    "amount": 2820,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:32:18.139Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าใช้สอย ไปราชการนางหนึ่งฤทัย ด่อล๊ะและคณะ (MEP)",
+    "amount": 38720,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:33:10.635Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าใช้สอย ค่าที่พักของครูชาวจีน ม.ค. 2569",
+    "amount": 3500,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:34:38.065Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ21/69",
+    "description": "ค่าวัสดุ เหล็กคั่นหนังสือใหญ่พิเศษ No.415ฯลฯ",
+    "amount": 13130,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:56:51.816Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ22/69",
+    "description": "ค่าวัสดุ แผ่นเคลือบบัตร Deliเครื่องเจาะ,ขวดหยดฯลฯ",
+    "amount": 2220,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T05:58:33.177Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ23/69",
+    "description": "ค่าวัสดุ พสาสติกใส,กระดาษการ์ดขาวA4,กระดาษA4ฯลฯ",
+    "amount": 9694,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:00:19.837Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ24/69",
+    "description": "ค่าวัสดุ กระดาษA4",
+    "amount": 2100,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:00:59.452Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ25/69",
+    "description": "ค่าครุภัณฑ์ แอมป์คีย์บอร์ด,ตู้แอมป์เบส",
+    "amount": 50000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:02:08.764Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ26/69",
+    "description": "ค่าครุภัณฑ์ พัดลมโคจร16นิ้ว , เต๋าต่อสายรุ่นกดฯลฯ",
+    "amount": 13960,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:03:25.228Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ27/69",
+    "description": "ค่าครุภัณฑ์ ซินธิไซเซอร์",
+    "amount": 50000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:05:06.905Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ28/69",
+    "description": "ค่าใช้สอย ค่าก่อสร้างขยายไฟฟ้า",
+    "amount": 190706.57,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:09:16.377Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ29/69",
+    "description": "ค่าใช้สอย ชด x-stand ทุนเสมอภาค",
+    "amount": 1300,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:10:40.423Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ30/69",
+    "description": "ค่าใช้สอย ไปราชการนางอรวรรณ มากชูชิดและคณะ",
+    "amount": 1748,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:11:30.622Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ31/69",
+    "description": "ค่าใช้สอย ค่าจ้างซ่อมจักร",
+    "amount": 9500,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:12:33.634Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ32/69",
+    "description": "ค่าใช้สอย ไปราชการนางบุญประภา อุณหะประทีป",
+    "amount": 5210.58,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:13:34.296Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ33/69",
+    "description": "ค่าใช้สอย ค่าอาหารกลางวันและเครื่องดื่มกิจกรรมสานสัมพันธ์นักเรียนทุนเสมอภาค",
+    "amount": 3000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:15:22.058Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าวัสดุ ผ้าขนหนู,แก้วน้ำเก็อุณหภูมิ ฯลฯ",
+    "amount": 9978,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:16:54.902Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าใช้สอย ไปราชการนางสาววัชวีวรรณ ไชยกูลและคณะ",
+    "amount": 4560,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:19:28.146Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าตอบแทน",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าตอบแทน ค่าวิทยากรโครงการส่งเสริมศักยภาพ(O-net ม.3,ม.6)",
+    "amount": 12600,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:31:24.083Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าครุภัณฑ์ หูฟังAcerรุ่น GALEA365",
+    "amount": 7950,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:33:58.789Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ34/69",
+    "description": "ค่าวัสดุ ค่าน้ำมันรถยนต์ เดือนมกราคม 2569",
+    "amount": 66342,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:37:38.394Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าใช้สอย ค่าเช่าเว็บไซต์ webhostingstw.ac.th",
+    "amount": 6634,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:42:21.665Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ35/69",
+    "description": "ค่าใช้สอย ค่าจ้างขุดลอกคูระบายน้ำ",
+    "amount": 6300,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:43:18.245Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ36/69",
+    "description": "ค่าใช้สอย ชำระค่าเงินสมทบประจำปี2569",
+    "amount": 3000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:44:36.725Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าใช้สอย ค่าติดตั้งโคมไฟ,สายไฟ ฯลฯ",
+    "amount": 17670,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:45:53.238Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ14/69",
+    "description": "ค่าใช้สอย ค่าใช้ไฟฟ้าห้องเรียนม.ปลาย ณ เกาะหลีเป๊ะ เดือน ม.ค. 2569",
+    "amount": 3027.5,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:53:33.100Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ14/69",
+    "description": "ค่าใช้สอย ค่าจ้างเหมารถตู้ สตูล-สงขลา 18-19 ก.พ.2569",
+    "amount": 28000,
+    "month": 4,
+    "year": 2569,
+    "created_at": "2026-04-03T06:56:08.223Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "รายได้แผ่นดิน ส่งคืนดอกเบี้ยเงินฝาก(บัญชีเงินอุดหนุน)",
+    "amount": 15667,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:15:31.587Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "เงินอุปกรณ์การเรียน ส่งคืนค่าอุปกรณ์ 2/2568",
+    "amount": 3120,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:18:09.241Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "เงินค่าเครื่องแบบนักเรียน ส่งคืนค่าเครื่องแบบนักเรียน 2/2568",
+    "amount": 1000,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:19:32.156Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าใช้จ่าย ภาษีหัก ณ ที่จ่าย เดือนกุมภาพันธ์ 2569",
+    "amount": 4470.47,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:21:00.716Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าใช้สอย ค่าบริการน้ำประปา เดือนกุมภาพันธ์,มีนาคม 2569",
+    "amount": 449.4,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:22:35.198Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าใช้สอย ค่าบริการไปรษณีย์ เดือนมกราคม,กุมภาพันธ์ 2569",
+    "amount": 3428,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:24:01.791Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าจ้างชั่วคราว ค่าจ้างครูสอนภาษาจีน เดือนมีนาคม 2568",
+    "amount": 3870,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:25:28.395Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ3/69",
+    "description": "ค่าวัสดุ กระดาษA4,ปากกาไวท์บอร์ด,กาวTOA ฯลฯ",
+    "amount": 4990,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:28:09.144Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าวัสดุ หมึกเติมปากกาไวท์บอร์ด,กาวTOAฯลฯ",
+    "amount": 4929,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:29:32.952Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าวัสดุ สมุดทะเบียน",
+    "amount": 570,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:31:00.027Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าวัสดุ Crossword กระดานกระดาษ,พลาสติก",
+    "amount": 2580,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:32:20.304Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าวัสดุ รีโหมดเครื่องโปรเจคเตอร์,อะเดฟเตอร์",
+    "amount": 540,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:33:35.266Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าวัสดุ หมึกlaserjet",
+    "amount": 1050,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:34:31.901Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บน9/69",
+    "description": "ค่าวัสดุ หมึกP235",
+    "amount": 990,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:37:27.981Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าวัสดุ แอสเซสพ้อย,อินเจคเตอร์,สวิซฮัฟ",
+    "amount": 18830,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:38:56.232Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าวัสดุ หมึกBrother 4สี",
+    "amount": 970,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:40:04.250Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าวัสดุ หลอดยาวLED 25หลอด",
+    "amount": 2500,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:40:50.545Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าวัสดุ สว่านโรตาร์,ท่อร้อยสายไฟ,หัวอุด ฯลฯ",
+    "amount": 4244,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:42:14.271Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ14/69",
+    "description": "ค่าวัสดุ คีมจับสายดิน",
+    "amount": 187,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:43:11.235Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ15/69",
+    "description": "ค่าวัสดุ ข้อต่อตรง,สามทาง",
+    "amount": 232,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:43:56.828Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ16/69",
+    "description": "ค่าวัสดุ สีกันสนิม,ทินเนอร์,สีพ่นอุตสาหกรรม,ฯลฯ",
+    "amount": 2774,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:45:50.367Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ17/69",
+    "description": "ค่าวัสดุ ข้องอลด,สามทางลด,สามทางPVC",
+    "amount": 1650,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:47:13.363Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ18/69",
+    "description": "ค่าวัสดุ ท่อPVC,ข้องอ,สามทางลด,ฯลฯ",
+    "amount": 4381,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:48:28.744Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ19/69",
+    "description": "ค่าวัสดุ ทีมาร์ซอย,ลวดขาว",
+    "amount": 215,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T03:57:30.394Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "20/69",
+    "description": "ค่าวัสดุ แผ่นตัดSTL,สีพ่นอุตสาหกรรม,ซีกัลวาไนซ์,ฯลฯ",
+    "amount": 3150,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:00:39.763Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ21/69",
+    "description": "ค่าวัสดุ เข็มขัด,สวมยางPVC 2ข้าง,ท่ออ่อน",
+    "amount": 1938,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:03:08.281Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ22/69",
+    "description": "ค่าวัสดุ เหล็กแผน,แป็ปน้ำหนา,ปูนฉาบ,ฯลฯ",
+    "amount": 4774,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:05:25.114Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ23/69",
+    "description": "ค่าวัสดุ ไม้อัดยาง,สว่านกระแทกไร้สาย",
+    "amount": 8650,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:10:42.709Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ24/69",
+    "description": "ค่าวัสดุ ถุงมือตรวจโรค",
+    "amount": 513.6,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:11:28.041Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ25/69",
+    "description": "ค่าวัสดุ ถุงดำขนาด30*40",
+    "amount": 825,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:12:27.840Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ26/69",
+    "description": "ค่าวัสดุ ท่อPVC,ข้องอ,บอลวาล์ว,ฯลฯ",
+    "amount": 680,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:14:21.632Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ27/69",
+    "description": "ค่าวัสดุ พานรัฐธรรมนูญ,เกี้ยวยอด,ลอนหู",
+    "amount": 8000,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:15:43.666Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ28/69",
+    "description": "ค่าวัสดุ ดิน",
+    "amount": 1200,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:16:07.408Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ29/69",
+    "description": "ค่าวัสดุ ห้องน้ำตาข่าย,ซันไลต์,ฯลฯ",
+    "amount": 1669,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:19:10.755Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ30/69",
+    "description": "ค่าวัสดุ ถุงมือ,สมอแปรง,ฯลฯ",
+    "amount": 1391,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:44:27.302Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ31/69",
+    "description": "ค่าครุภัณฑ์ ถังไอติมหลอด 60หลอด",
+    "amount": 3119,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:45:14.282Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ32/69",
+    "description": "ค่าใช้สอย ค่าจ้างทำป้ายไวนิลและสติ๊กเกอร์โฟมบอร์ด(อาคารห้องสมุดฯ)",
+    "amount": 52882,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:46:53.290Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ33/69",
+    "description": "ค่าใช้สอย ค่าจ้างซ่อมกระจกหน้าต่าง(ห้องสุขศึกษา)",
+    "amount": 28450,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:47:58.761Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ34/69",
+    "description": "ค่าใช้สอย ค่าจ้างซ่อมประตู,ปิดสมาร์ทบอร์ดช่องลมหอประชุม 100ปี",
+    "amount": 28240,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:49:32.953Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ35/69",
+    "description": "ค่าใช้สอย ค่าจ้างถ่ายเอกสาร (งานบุคคล)",
+    "amount": 2337,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:52:22.649Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ36/69",
+    "description": "ค่าใช้สอย ค่าจ้างทำป้ายพร้อมติดตั้งโครงการโคกหนองนา",
+    "amount": 1500,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:56:29.237Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ37/69",
+    "description": "ค่าใช้สอย ค่าตัดหญ้าสนามจำนวน 5ไร่",
+    "amount": 2000,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:57:25.130Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ38/69",
+    "description": "ค่าใช้สอย ค่าจ้างซ่อมลำโพงบลูทูธ,ตู้เย็น",
+    "amount": 2600,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T04:58:33.716Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ39/69",
+    "description": "ค่าใช้สอย ค่าจ้างทำตรายาง",
+    "amount": 220,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T05:00:42.776Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ40/69",
+    "description": "ค่าใช้สอย ไปราชการนายคฑาวุธ สารบัญและคณะ",
+    "amount": 4480,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T05:01:58.274Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ41/69",
+    "description": "ค่าใช้สอย ไปราชการนายสุริยัน บิลหีมและคณะ",
+    "amount": 748,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T05:03:22.037Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ43/69",
+    "description": "ค่าใช้สอย ไปราชการนางอธิยาภรณ์ เพชรสลับแก้วและคณะ",
+    "amount": 1120,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T05:05:21.273Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ44/69",
+    "description": "ค่าใช้สอย ไปราชการนายสุริยัน บิลหีมและคณะ",
+    "amount": 952,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T05:06:12.180Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ45/69",
+    "description": "ค่าใช้สอย ไปราชการนายเลิศศักดิ์ ประกอบชัยชนะและคณะ",
+    "amount": 4800,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-04T05:09:31.244Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ46/69",
+    "description": "ค่าใช้สอย ไปราชการนางอรวรรณ มากชูชิด",
+    "amount": 1232,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:12:13.999Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ47/69",
+    "description": "ค่าใช้สอย ไปราชการนายภัทรกร หมาดฉิมและคณะ",
+    "amount": 768,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:14:23.685Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าวัสดุ หนังสือขยันก่อนสอบ,คณิตศาสตร์ม.4_6, Core-O-Net,ฯลฯ",
+    "amount": 16484,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:20:20.398Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ2/69",
+    "description": "ค่าใช้สอย ไปราชการนายคฆาวุธ สารบัญและคณะ",
+    "amount": 15120,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:33:02.846Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ3/69",
+    "description": "ค่าใช้สอย ค่าเหมารถตู้สตูล-มอหาดใหญ่",
+    "amount": 5000,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:42:03.918Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าใช้สอย ป้ายไวนิลเลือกตั้งสภานักเรียน",
+    "amount": 1000,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:42:59.697Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าใชสอย ค่าจ้างถ่ายเอกสารข้อสอบAFS",
+    "amount": 1200,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:44:20.641Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าใช้สอย ค่าอาหารว่างและเครื่องดื่มผู้เข้าอบรมโครงการส่งเสริมประชาธิปไตย ค่าวัสดุ กระเช้าเพื่อสุขภาพ",
+    "amount": 4400,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:56:29.100Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าใช้สอย ไปราชการนางสาววรารัตน์ เหมาะทองและคณะ",
+    "amount": 11550,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T02:59:22.919Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าใช้สอย ไปราชการว่าที่ ร.ต.มูฮัมหมัด อาดัมและคณะ",
+    "amount": 28668,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T03:05:21.226Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าใช้สอย ไปราชการนางสาวเกษรา หัสมาและคณะ",
+    "amount": 16640,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T03:11:43.865Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าวัสดุ กระดาษA4",
+    "amount": 6000,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T03:12:35.328Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าครุภัณฑ์ ทีวี 75 นิ้ว LG,ขาตั้งทีวี,ไมค์ตู้ลำโพง",
+    "amount": 53800,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T03:17:41.453Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าใช้สอย ค่าจ้างทำป้ายเพชรน้ำหนึ่ง,สติ๊กเกอร์พลาสวูด",
+    "amount": 6900,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T03:19:38.780Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าใช้สอย ค่าอาหารกลางวันพร้อมน้ำดื่มของครู,นักเรียน",
+    "amount": 11220,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T03:21:57.740Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าใช้สอย ค่าจ้างทำกรอบรูปสำหรับอาคารหอสมุดและแหล่งเรียนรู้",
+    "amount": 48800,
+    "month": 3,
+    "year": 2569,
+    "created_at": "2026-04-05T03:23:37.823Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าจ้างเหมาบริการ รักษาความปลอดภัย เดือนกุมภาพันธ์ 2569",
+    "amount": 31000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-01T05:55:34.037Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ2 /69",
+    "description": "ค่าจ้างพนักงานบริการชาย หญิง เจ้าหน้าที่พยาบาล ฯลฯ",
+    "amount": 116150,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-01T05:57:45.780Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าจ้างสอนภาษาอังกฤษ",
+    "amount": 35000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-01T05:58:44.435Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ2/69",
+    "description": "ค่าจ้างสอนภาษาอังกฤษ เดือนกุมภาพันธ์ 2569",
+    "amount": 135000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-01T06:00:12.649Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ3/69",
+    "description": "เงินอื่นๆ จ่ายสมทบผู้ประกันตนฝ่ายนายจ้าง เดือนกุมภาพันธ์ 2569",
+    "amount": 3500,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-01T06:02:11.097Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ4/69",
+    "description": "เงินอื่นๆ จ่ายสมทบผู้ประกันตนฝ่ายนายจ้างเดือน กุมภาพันธ์ 2569",
+    "amount": 875,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-01T06:03:23.892Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "เงินอื่นๆ จ่ายสมทบผู้ประกันตนฝ่ายลูกจ้างเดือน กุมภาพันธ์ 2569",
+    "amount": 4375,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-01T06:05:23.516Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "รายได้แผ่นดิน ส่งคืนดอกเบี้ยเงินฝาก(บัญชีเงินอุดหนุน)",
+    "amount": 15667.14,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-01T06:07:35.229Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "เงินค่าอุปกรณ์การเรียน ส่งคืนค่าอุปกรณ์การเรียน 2/68",
+    "amount": 3120,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T04:49:26.504Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "เงินค่าเครื่องแบบนักเรียน ส่งคืนค่าเครื่องแบบนักเรียน2/68",
+    "amount": 1000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T04:51:03.337Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "ภาษีหัก ณ ที่จ่าย",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าใช้สอย ภาษีหัก ณ ที่จ่ายเดือนกุมภาพันธื",
+    "amount": 4470.47,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T04:56:35.208Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าใช้สอย ค่าบริการน้ำประปา เดือนกุมภาพันธ์ เดือนมีนาคม 2569",
+    "amount": 449.4,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T05:01:43.177Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าใช้สอย ค่าบริการไปรษณีย์ เดือนมกราคม,กุมภาพันธ์2569",
+    "amount": 3428,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T05:04:58.641Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าจ้างชั่วคราว ค่าจ้างสอนภาษาจีน เดือนมีนาคม 2569",
+    "amount": 3870,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T05:11:05.465Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าวัสดุ กระดาษA4 ,ปากกาไวท์บอร์ด,กาว ฯลฯ",
+    "amount": 4490,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T05:12:50.300Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าวัสดุ หมึกเติมปากกาไวท์บอร์ด,กาวTOAฯลฯ",
+    "amount": 4929,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T05:14:49.289Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าวัสดุ สมุดทะเบียน",
+    "amount": 570,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T05:15:45.750Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าวัสดุ crossword,กระดานกระดาษ,พลาสติก",
+    "amount": 2580,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T05:17:17.527Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าวัสดุ รีโหมดเครื่องโปรเจคเตอร์, ดะแดฟเตอร์",
+    "amount": 540,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-05-21T05:18:48.102Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าวัสดุ หมึก laserjet",
+    "amount": 1050,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:00:15.369Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าวัสดุ หมึก p235",
+    "amount": 990,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:01:38.593Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าวัสดุ แอสเซสพ้อยม,อินเจคเตอร์ ,สวิซอัพ",
+    "amount": 18830,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:03:54.641Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าวัสดุ หมึกBrother 4 สี",
+    "amount": 970,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:04:53.216Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าวัสดุ หลอดยาว LED 25 หลอด",
+    "amount": 2500,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:06:00.208Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าวัสดุ สว่านโรตาร์",
+    "amount": 4244,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:06:44.017Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าวัสดุ สว่านโรตาร์ , ท่อร้อยสายไฟ,หัวอุด, ฯลฯ",
+    "amount": 4244,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:08:11.536Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ14/69",
+    "description": "ค่าวัสดุ คีมจับสายดิน",
+    "amount": 187,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:08:58.328Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ15/69",
+    "description": "ค่าวัสดุ ข้อต่อตรง,สามทาง",
+    "amount": 232,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:09:59.736Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ16/69",
+    "description": "ค่าวัสดุ สีกันสนิม,ทินเนอร์.สีพ่นอุตสหกรรม,ฯลฯ",
+    "amount": 2774,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:11:36.144Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ17/69",
+    "description": "ค่าวัสดุ ข้องอลด,สามทางลด,สามทางpvc,ฯลฯ",
+    "amount": 1650,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:12:58.792Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ18/69",
+    "description": "ค่าวัสดุ ทีทาร์ซอย,ลวดขาว",
+    "amount": 4381,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:13:56.880Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ18/69",
+    "description": "ค่าวัสดุ ท่อpvc, ข้องอ, สามทางลด,ฯลฯ",
+    "amount": 4381,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:17:32.705Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ19/69",
+    "description": "ค่าวัสดุ ทีทาร์ซอย,ลวดขาว",
+    "amount": 214.98,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:18:08.168Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ20/69",
+    "description": "ค่าวัาสดุ แผ่นตัดSTL, สีพ้นอุตสหกรรม,ซีกัลวาไนซ์,ฯลฯ",
+    "amount": 3150,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:19:55.040Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ21/69",
+    "description": "ค่าวัสดุ เข็มขัด, สายยางpvc 2 ข้าง,ท่ออ่อน",
+    "amount": 1938,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:21:15.936Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ22/69",
+    "description": "ค่าวัสดุ เหล็กแบน, แป๊ปน้ำหนา, ปูนฉาบ,ฯลฯ",
+    "amount": 4774,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:23:10.575Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ23/69",
+    "description": "ค่าวัสดุ ไม้อัดยาง, สว่านกระแทกไร้สาย",
+    "amount": 8650,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:24:10.704Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ24/69",
+    "description": "ค่าวัสดุ ถุงมือตรวจโรค",
+    "amount": 513.6,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:25:09.799Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ25/69",
+    "description": "ค่าวัสดุ ถุงดำขนาด30*40",
+    "amount": 825,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:26:10.159Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ26/69",
+    "description": "ค่าวัสดุ ท่อpvc,ข้องอ,บอลวาล์ว,ฯลฯ",
+    "amount": 680,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:27:27.351Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ27/69",
+    "description": "ค่าวัสดุ พานรัฐธรรมนูญ,เกี้ยวยอด",
+    "amount": 8000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:28:43.959Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ28/69",
+    "description": "ค่าวัสดุ ดิน",
+    "amount": 1200,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:29:42.663Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ29/69",
+    "description": "ค่าวัสดุ ฟองน้ำตาข่าย,ซันไลต์,ฯลฯ",
+    "amount": 1669,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:30:42.959Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ30/69",
+    "description": "ค่าวัสดุ ถุงมือ,สมอแปรง,ฯลฯ",
+    "amount": 1391,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:31:41.663Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ31/69",
+    "description": "ถังไอติมหลอด 60 หลอด",
+    "amount": 3119,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:33:23.687Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ32/69",
+    "description": "ค่าจ้างทำป้ายไวนิลและสติ๊กเกอร์โฟมบอร์ด(อาคารหอสมุด)",
+    "amount": 52882,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:36:46.254Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ33/69",
+    "description": "ค่าจ้างซ่อมกระจกหน้าต่าง(ห้องสุขศึกษา)",
+    "amount": 28450,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:38:35.118Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ34/69",
+    "description": "ค่าจ้างซ่อมประตู, ปิดสมาร์ทบอร์ดช่องลมหอประชุม100ปี",
+    "amount": 28240,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T01:40:46.134Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ35/69",
+    "description": "ค่าจ้างถ่ายเอกสาร(งานบุคคล)",
+    "amount": 2337,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T12:56:32.056Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ36/69",
+    "description": "ค่าจ้างทำป้ายพร้อมติดตั้งโครงการหนองนา",
+    "amount": 1500,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T12:57:56.572Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ37/69",
+    "description": "ค่าตัดหญ้าสนามจำนวน 5 ไร่",
+    "amount": 2000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T12:59:31.916Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ38/69",
+    "description": "ค่าจ้างซ่อมลำโพงบลูธูท,ตู้เย็น,พัดลม ห้องศิลปะ",
+    "amount": 2600,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:01:06.340Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ39/69",
+    "description": "ค่าจ้างทำตรายาง",
+    "amount": 220,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:01:42.196Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ40/69",
+    "description": "ไปราชการนายคฑาวุธ สารบัญและคณะ",
+    "amount": 4480,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:02:51.388Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ41/69",
+    "description": "ไปราชการนายสุริยัน บิลหีมและคณะ",
+    "amount": 748,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:03:42.724Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ42/69",
+    "description": "ไปราชการนายสุริยัน บิลหีม",
+    "amount": 502,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:04:29.420Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ43/69",
+    "description": "ไปราชการ นางอทิยาภรณ์ เพชรสลับแก้วและคณะ",
+    "amount": 1120,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:05:36.548Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ44/69",
+    "description": "ไปราชการนายสุริยัน บิลหีมและคณะ",
+    "amount": 952,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:06:32.116Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ45/69",
+    "description": "ไปราชการนายเลิศศักดิ์ ประกอบชัยชนะและคณะ",
+    "amount": 4800,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:07:48.620Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ46/69",
+    "description": "ไปราชการนางอรวรรณ มากชูชิต",
+    "amount": 1232,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:09:04.035Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ47/69",
+    "description": "ไปราชการนายภัทรกร หมาดฉิมและคณะ",
+    "amount": 768,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:09:58.955Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ1/69",
+    "description": "หนังสือขยันก่อนสอบ,คณิตศาสตร์ม.4-6,core-onet ,ฯลฯ",
+    "amount": 16484,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:11:58.691Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ2/69",
+    "description": "ไปราชการนายคฑาวุธ สารบัญและคณะ",
+    "amount": 15120,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:12:49.404Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ3/69",
+    "description": "ค่าเช่าเหมารถตู้สตูล-หาดใหญ่",
+    "amount": 5000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:14:43.227Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ4/69",
+    "description": "ป้ายไวนิลเลือกตั้งสภานักเรียน",
+    "amount": 1000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:15:29.987Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าจ้างถ่ายเอกสารตัวข้อสอบAFS",
+    "amount": 1200,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:16:16.299Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าอาหารว่างและเครื่องดื่มผู้เข้าอบรมโครงการส่งเสริมประชาธิปไตย",
+    "amount": 3700,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:17:30.451Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าอาหารว่างและเครื่องดื่มผู้เข้าอบรมโครงการส่งเสริมประชาธิปไตย ค่าวัสดุ กระเช้าเพื่อสุขภาพ",
+    "amount": 4400,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:19:19.155Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ7/69",
+    "description": "ไปราชการนางสาววรารัตน์ เหมาะทองและคณะ",
+    "amount": 11550,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:20:50.555Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ8/69",
+    "description": "ไปราชการว่าที่ ร.ต.มูฮํมหมัด อาดัม",
+    "amount": 28668,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:22:10.515Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ9/69",
+    "description": "ไปราชการนางสาวเกษรา หัสมาและคณะ",
+    "amount": 16640,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:23:19.259Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ8/69",
+    "description": "กระดาษ A4 (เงิน pre-test)",
+    "amount": 6000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:26:29.314Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ9/69",
+    "description": "ทีวี 75 นิ้ว LG,ขาตั้งทีวี,ไมค์,ตู้ลำโพง (เงินบริจาคห้องเรียนหลีเป๊ะ)",
+    "amount": 53800,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:29:05.738Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าจ้างทำป้ายไวนิลเพชรน้ำหนึ่ง,สติ๊กเกอร์พลาสวูด",
+    "amount": 6900,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:31:57.682Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าอาหารกลางวันพร้อมน้ำดื่มของครู,นักเรียน(เงินpre-test)",
+    "amount": 11220,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:33:56.138Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าจ้างทำกรอบรูปสำหรับอาคารห้องสมุดและแหล่งเรียนรู้(เงินปาล์ม)",
+    "amount": 48800,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:35:31.210Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าอาหารและเครื่องดื่มคณะดำเนินงานและนักเรียนกิจกรรมอบรมเชิงปฏิบัติการโปรแกรมตอมพิวเตอร์ 7900 ค่าตอบแทน วิทยากรกิจกรรมอบรมเชิงปฏิบัติการโปรแกรมตอมพิวเตอร์ 2400(เงิน SMTEม.ปลาย)",
+    "amount": 10300,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:39:13.425Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ48/69",
+    "description": "ไปราชการนางจินดาวรรณ บุญเตี่ยว",
+    "amount": 3320,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:40:52.073Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ10/69",
+    "description": "ไปราชการนางกีรติ หมาดทิ้งและคณะ",
+    "amount": 6660,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:42:01.769Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ14/69",
+    "description": "ทุนการศึกษาสมาคมนักเรียน นิวยอร์ค มอบให้ นร. 2 คน (เงินบริจาคเพื่อการศึกษา)",
+    "amount": 6000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T13:44:38.409Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ49/69",
+    "description": "ถ่านอัลคาไลน์AA,AAA,ปากกาลูกลื่น,กระดาษโน้ต,ฯลฯ",
+    "amount": 3430,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:18:48.490Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ50/69",
+    "description": "กระดาษการ์ดขาวA4150g,กระดาษโฟโต้,กระดาษA4 70g AA",
+    "amount": 2710,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:21:36.091Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ51/69",
+    "description": "เทปผ้า,กระดาษโปสเตอร์เป็นสี, พสาสติกใสA4,ฯลฯ",
+    "amount": 3693,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:24:53.305Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ52/69",
+    "description": "กระดาษบรู๊ฟ,ปากกาไวท์บอร์ด,กรรไกร 8นิ้ว ,ฯลฯ",
+    "amount": 7193,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:26:20.797Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ53/69",
+    "description": "กระดาษโน้ตอินเด็กซ์,เครื่องเจาะกระดาษ,คัตเตอร์,ฯลฯ",
+    "amount": 2823,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:28:02.139Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ54/69",
+    "description": "หมึก Epson 4สี",
+    "amount": 1000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:28:45.649Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ55/69",
+    "description": "หมึก Epson 4สี",
+    "amount": 1000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:29:38.846Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ56/69",
+    "description": "หมึก Brother 4สี,หมึกLaserjet,หมึกLaserjet35A,หน้าจอแสดงผล",
+    "amount": 8160,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:32:28.551Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ57/69",
+    "description": "กระดาษรายงาน,ดินสอกด,ยางลบ,ฯลฯ",
+    "amount": 3200,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:33:27.533Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ58/69",
+    "description": "แป็ปโปรง,เหล็กแบน,เหล็กแผ่น,ฯลฯ",
+    "amount": 13448,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:35:09.421Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ59/69",
+    "description": "น้ำมันเชื้อเพลิงและหล่อลื่นเดือนกุมภาพันธ์ 2569",
+    "amount": 30407.94,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:36:18.366Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ60/69",
+    "description": "ไมโครโฟนแบบไร้สายรุ่นTADA U -600,U-4004,เน็ตเวิร์ก2สองทาง ดอกลำโพง 8ดอก",
+    "amount": 43510,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:39:08.815Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ61/69",
+    "description": "ซ่อมเครื่องโปรเจคเตอร์",
+    "amount": 3050,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:40:55.064Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ62/69",
+    "description": "จ้างทำป้ายไวนิลยินดีต้อนรับรอมฎอน 2569",
+    "amount": 3540,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:41:58.253Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ63/69",
+    "description": "ค่าเช่ารถตู้เลขทะเบียน รก6658กทม.เดือน ก.พ.2569",
+    "amount": 25000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:43:35.927Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ64/69",
+    "description": "จ้างเหมาบริการติดตั้งเครื่องสูบน้ำอัตโรงผลิตน้ำดื่ม",
+    "amount": 33770,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:45:05.523Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ65/69",
+    "description": "ค่าจ้างซ่อมแซมเครื่องปรับอากาศ",
+    "amount": 17370,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:45:59.965Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ66/69",
+    "description": "ค่าจ้างซ่อมแซมเครื่องสูบน้ำ",
+    "amount": 35300,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:46:48.114Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ67/69",
+    "description": "ไปราชการนางสาวอัญอนงค์ คงทนและคณะ",
+    "amount": 352,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:47:52.116Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ11/69",
+    "description": "ปลั๊กไฟ 5ช่อง 5 เมตร",
+    "amount": 540,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-02T14:49:01.263Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าจ้างทำป้ายไวนิลว่าวสู่การเรียนรู้",
+    "amount": 675,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T05:19:35.160Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ12/69",
+    "description": "ไม้ไฝ่สีสุก 4000 ด้ายยาว1000 โรลว่าวNo.105,106 1000,วิทยากรสอนวิชาว่าว 13500,เงินรางวัลการแข่งขันว่าวประเภทสวยงาม, ขึ้นสูง 1400",
+    "amount": 20900,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T05:23:46.509Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ14/69",
+    "description": "กระดาษปกการ์ดสี,กระดาษA4, เยื่อกาว,ฯลฯ 4299 ค่าอัดภาพ 90,น้ำมันปาล์ม น้ำตาลทราย 115, น้ำหมึกคอมพิวเตอร์ 970, กระดาษA4, กระดาษร้อยปอนด์,ฯลฯ 115, ต้นไม้,พู่กัน,ของตกแต่ง 490, เกลือ,นมรสจืด,ท็อปปิ้ง ฯลฯ518.25 ,ค่าจ้างทำสติกเกอร์โฟมบอร์ดโครงการIS 9600",
+    "amount": 16197.25,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T05:32:45.943Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ15/69",
+    "description": "นาฬิกาฝาผนัง,ปากกาเคมี2หัวสีแดง ดำ,กระดาษขาวเทา,ฯลฯ",
+    "amount": 2117,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T05:35:11.665Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ68/69",
+    "description": "ไปราชการนางสาวเกษรา หัสมาและคณะ",
+    "amount": 17840,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T05:36:38.611Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ22/69",
+    "description": "คืนเงินไปราชการ นายสุเทพ มะลิวัลย์และคณะกิจกรรมทัศนศึกษาห้องเรียนพิเศษ ม.2",
+    "amount": 1,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T05:38:39.385Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ23/69",
+    "description": "คืนเงินไปราชการ นายสุเทพ มะลิวัลย์ และคณะกิจกรรมทัศนศึกษาห้องเรียนพิเศษ ม.2",
+    "amount": 1,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T05:40:21.691Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ24/69",
+    "description": "คืนเงินไปราชการ นางหทัยชนก ง๊ะสมัน และคณะกิจกรรมทัศนศึกษาห้องเรียนพิเศษ ม.1",
+    "amount": 1,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T05:41:31.899Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ16/69",
+    "description": "กริ่งกด,กระดาษการ์ดขาว,card case",
+    "amount": 2700,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:20:23.502Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ15/69",
+    "description": "จานเพาะเชื้อ 174, โมดูลGMS,ESP32WROOM,ฯลฯ 432,แบตเตอรี่,ชุดอุปกรณ์ปัดกรี,ดิจิตอลมัลติมิเตอร์ 795, GPS โมดูล 180, มูลไส้เดือน,มูลวัวนม,EM,ฯลฯ 250",
+    "amount": 1831,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:26:01.356Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ16/69",
+    "description": "Moter+16 Servo Moter 1600,หุ่นยนตร์กู้ภัย,โครงพลาสติก,แบตเตอรรี่,ฯลฯ 9950,Moter 16 GA 906,กล่องเครื่องมือ,ตะกั่วบัดกรีปากกา894, เซนเซอร์ตรวจจับ,ServoMoter,ฯลฯ660, Converter Ruck, Moter0180 องศา 990",
+    "amount": 15000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:32:56.220Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ17/69",
+    "description": "ค่าจ้างทำสติกเกอร์โฟมบอร์ดโครงงาน (MEP ม.ต้น)",
+    "amount": 7382,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:34:33.189Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ25/69",
+    "description": "ค่าบริการอินเตอร์เน็ตบริษัทแอดวานซไวร์เลส เน็ทเวอร์ค จำกัด ประจำเดือน มกราคม,กุมภาพันธ์ 2569",
+    "amount": 37022,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:39:39.164Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ69/69",
+    "description": "เสาธง 2 เมตร",
+    "amount": 5000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:40:43.060Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ70/69",
+    "description": "กระดาษA4,กระดาษโรเนียว,กระดาษถ่านสีKTV 80g,ฯลฯ",
+    "amount": 43218,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:42:17.107Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ71/69",
+    "description": "เครื่้องเย็บกระดาษ,กระดาษโรเนียว,กระดาษA4 70g,ฯลฯ",
+    "amount": 56090,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:43:43.900Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ72/69",
+    "description": "กระดาษA4 70g,กระดาษการ์ดขาว,ฟิล์มอินเด็กซ์,ฯลฯ",
+    "amount": 3000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:44:56.060Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ73/69",
+    "description": "หมึก HP Toner Laserjet CF226A",
+    "amount": 11580,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:46:05.435Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ74/69",
+    "description": "หมึก Brother 4สี",
+    "amount": 1316,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:48:22.931Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ75/69",
+    "description": "หมึก Brother 4 สี",
+    "amount": 1316,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:49:11.491Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ76/69",
+    "description": "หมึก Onlyone Toner HP85A",
+    "amount": 2100,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:50:29.411Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ77/69",
+    "description": "หมึก GORILLA HP85A",
+    "amount": 1780,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:52:15.475Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ78/69",
+    "description": "เหล็กข้อย้อย,เหล็กแบน,ฯลฯ",
+    "amount": 3336,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:53:21.699Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ79/69",
+    "description": "สายยูชุบ, สายยูพัน, สีสเปรย์",
+    "amount": 359,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:55:24.387Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ80/69",
+    "description": "หลงโก้101, เกียงฉาบปูน",
+    "amount": 699,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:58:04.939Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ81/69",
+    "description": "ลวดเชื่อม, เหล็กแบน,เหล็กข้ออ้อย",
+    "amount": 6477,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T12:59:36.923Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ82/69",
+    "description": "ท่ออ่อน,แป๊ปน้ำหนา,เข็มขัด ,ฯลฯ",
+    "amount": 2842.8,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:02:25.946Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ83/69",
+    "description": "เครื่องโปรเจคเตอร์ยี่ห้อ ACERรุ่นX1228i",
+    "amount": 30800,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:05:06.474Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ84/69",
+    "description": "ค่าจ้างซ่อมเครื่องพิมพ์ยี่ห้อBrother",
+    "amount": 1090,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:06:37.394Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ85/69",
+    "description": "จ้างทำป้ายไวนิลสติกเกอร์โฟมบอร์ด",
+    "amount": 4818,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:08:09.770Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ86/69",
+    "description": "ท่อ PVC,ข้องอ",
+    "amount": 460,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:09:28.058Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ87/69",
+    "description": "แลงโก้101",
+    "amount": 319,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:10:48.746Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ88/69",
+    "description": "หลอด LED",
+    "amount": 500,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:12:10.682Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ89/69",
+    "description": "แผ่นหมากเพชร",
+    "amount": 251.45,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:13:10.266Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ90/69",
+    "description": "ถังฉีดหญ้า 20 L",
+    "amount": 1060,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:14:03.234Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ91/69",
+    "description": "ทรายหยาบ",
+    "amount": 330,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:14:39.618Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ92/69",
+    "description": "กุญแจ,น้ำยาประสานท่อ",
+    "amount": 528,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:15:36.314Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ93/69",
+    "description": "ไม้อัดยาง 10mm",
+    "amount": 567,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:16:45.722Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ94/69",
+    "description": "กุญแจ(ลูกปืน),โซ่ซุฟ 8 มิล",
+    "amount": 2449.7,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:18:38.810Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ95/69",
+    "description": "หัวเทียน,ขาตั้งเครื่อง,ค่าแรงล้างคาร์บิว",
+    "amount": 599.2,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:20:46.538Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ96/69",
+    "description": "คาร์บิว,สายน้ำมัน,กรองอากาศ,ฯลฯ",
+    "amount": 1433.8,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:22:21.865Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ97/69",
+    "description": "แบตเตอรรี่ FB F135",
+    "amount": 3000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:23:27.945Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ98/69",
+    "description": "จ้างซ่อมเคาร์เตอร์ห้องพยาบาล",
+    "amount": 3500,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:25:03.817Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ99/69",
+    "description": "ค่าจ้างรื้อถอนประตู, ค่าจ้างเชื่อมประตูดหล็ก",
+    "amount": 9600,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:26:26.521Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ100/69",
+    "description": "พัดลมโคจร 16 นิ้ว",
+    "amount": 1250,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:27:37.849Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ101/69",
+    "description": "โต๊ะอเนกประสงค์ขาเหล็ก,เก้าอี้พลาสติก",
+    "amount": 21600,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:28:53.985Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ102/69",
+    "description": "ต่าจ้างเหมารถตู้ปรับอากาศ สตูล-พัทลุง 1 คัน",
+    "amount": 3000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:29:58.985Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ103/69",
+    "description": "ไปราชการนายศิรา ทองสีดำ",
+    "amount": 1900,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:32:33.017Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ104/69",
+    "description": "ไปราชการนางอรวรรณ มากชูชิตและคณะ",
+    "amount": 14720,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:33:52.209Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ17/69",
+    "description": "ต่าลูกโป่งอัดแก๊สลอย 600 ใบ 15000, สายสะพาน 39060, มงกุฎดอกไม้ 1056,ริบบิ้นฟาง,No.9, 18,25 m ,ฯลฯ ค่าจ้างทำสติกเกอร์สายสะพาน,ป้ายไวนิลร่วมยินดี 4335",
+    "amount": 59451,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:39:56.240Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ18/69",
+    "description": "สายสะพายกำมะหยี่ขอบดิ้นเงิน 860, ค่าจ้างทำซุ้มอำลาบานบุรี 5200",
+    "amount": 6060,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:44:49.048Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ19/69",
+    "description": "ปกวุฒิบัตรปั้มโลหะขนาด 600 :58500, เข็มกลัดดอกไม้ติดเสื้อ 24000, ขัด Backdrop ขนาด 3*4 18103",
+    "amount": 100603,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:53:29.792Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ20/69",
+    "description": "สติกเกอร์โฟมบอร์ดรอมฎอน,รางวัลชนะเลิศ,ป้ายไวนิล,ฯลฯ",
+    "amount": 3760,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:55:42.368Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ21/69",
+    "description": "หมึกBrotherToner,หมึก Brother 4 สีภพ",
+    "amount": 3210,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T13:57:45.151Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ22/69",
+    "description": "หมึกพิมพ์,ชุดแกะสลักไม้,แผ่นพลาสวูดสีขาว,ฯลฯ",
+    "amount": 45802,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:33:55.944Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ23/69",
+    "description": "ปากกาลูกลื่น,กระดาษโฟสเตอร์สี 2 หน้า,กระดาษวาดเขียน,ฯลฯ",
+    "amount": 19436,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:35:19.863Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ24/69",
+    "description": "ดินสอสีไม้ชาโคล,ปลั๊กไฟ  8 สวิตซ์, เรนาซองซ์,ฯลฯ",
+    "amount": 4725,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:36:58.399Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ25/69",
+    "description": "ปากกาเคมี 2 หัว, แปรงทาสี, ปากกาพิกม่า ,ฯลฯ",
+    "amount": 4525,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:38:20.063Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ26/69",
+    "description": "กระดาษวาดเขียน 100ปอนด์,กระดาษวาดเขียน A3,สติกเกอร์ PVC สีใส ฯลฯ",
+    "amount": 48828,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:40:15.839Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ27/69",
+    "description": "กล่องเอกสาร 3ช่อง, สีไม้ 12 สี ยาว,ถุงดำ,ฯลฯ",
+    "amount": 7032,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:41:39.599Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ28/69",
+    "description": "สติกเกอร์โฟมบอร์ด,ค่าปริ้นสีกระดาษโฟโต้",
+    "amount": 5880,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:43:26.535Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ26/69",
+    "description": "แอร์อีทิเน้น ขนาด 24000 BTU พน้อมติดตั้ง",
+    "amount": 28500,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:44:42.175Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าตอบแทน",
+    "voucher_no": "บจ27/69",
+    "description": "วิทยากรกิจกรรมสอนเสริมเพิ่มความรู้",
+    "amount": 7600,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:45:53.407Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าตอบแทน",
+    "voucher_no": "บจ28/69",
+    "description": "วิทยากรกิจกรรมสอนเสริมเพิ่มความรู้",
+    "amount": 4800,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:47:08.350Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าตอบแทน",
+    "voucher_no": "บจ29/69",
+    "description": "วิทยากรกิจกรรมสอนเสริมเพิ่มความรู้",
+    "amount": 10400,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:47:47.582Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ30/69",
+    "description": "ช่อดอกไม้,แจกัน (เงินปาล์ม)",
+    "amount": 5500,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:48:44.478Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ105/69",
+    "description": "ไปราชการนางจินดาวรรณ บุญเตี่ยวและคณะ",
+    "amount": 3320,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:49:45.422Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ106/69",
+    "description": "ไปราชการนางสาวเกษรา หัสมาและคณะ",
+    "amount": 9960,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:50:33.767Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ107/69",
+    "description": "ป้ายชื่ออะคริลิค,ปากกาลูกลื่น,กรอบเกียรติบัตร,ฯลฯ 3275 บ.,ค่าเช่าเก้าอี้พลาสติก 3000 บ, ค่าอาหารว่างและเครื่องดื่มโครงการสานสายใยรักฯ 51725บ",
+    "amount": 58000,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:53:38.750Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ29/69",
+    "description": "ไปราชการนายวุฒิพงศ์ ศรีสมโภชน์และคณะ",
+    "amount": 6260,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:55:10.934Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ31/69",
+    "description": "ไปราชการนางธนิดา บิลอะหมาดและคณะ",
+    "amount": 19685,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:56:35.582Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ32/69",
+    "description": "ไปราชการว่าที่ ร.ต.มูฮัมหมัด อาดำ (สสวท)",
+    "amount": 3953,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:57:56.398Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ33/69",
+    "description": "ไปราชการนางดวงรัตน์ เคยอาษา",
+    "amount": 3953,
+    "month": 5,
+    "year": 2569,
+    "created_at": "2026-06-03T14:58:46.974Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ 1/69",
+    "description": "ค่าจ้างพนักงานรักษาความปลอดภัยเดือน มีนาคม 2569",
+    "amount": 31000,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T06:48:57.308Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ2/69",
+    "description": "ค่าจ้างพนักงานบริการชาย,หญิง ฯลฯ เดือน มี.ค.2569",
+    "amount": 116150,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T06:50:40.371Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าจ้างสอนภาษาอังกฤษเดือนมีนาคม 2569",
+    "amount": 35000,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T06:52:25.683Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ลูกจ้างชั่วคราว",
+    "voucher_no": "บจ2/69",
+    "description": "ค่าจ้างสอนภาษาอังกฤษเดือนมีนาคม 2569",
+    "amount": 123000,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T06:53:13.611Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ3/69",
+    "description": "จ่ายสมทบผู้ประกันตนฝ่ายนายจ้าง เดือนมีนาคม 2569",
+    "amount": 2100,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T06:54:26.955Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ4/69",
+    "description": "จ่ายสมทบผู้ประกันตนฝ่ายนายจ้าง เดือนมีนาคม 2569",
+    "amount": 525,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T06:55:20.060Z"
+  },
+  {
+    "money_type": "เงินอื่นๆ",
+    "expense_category": "รายจ่ายอื่น",
+    "voucher_no": "บจ1/69",
+    "description": "จ่ายสมทบผู้ประกันตนฝ่ายลูกจ้าง เดือนมีนาคม 2569",
+    "amount": 2625,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T06:56:25.604Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าอาหารเย็น อาหารว่างและเครื่องดื่ม กิจกรรมรอมฎอน ค่าเช่าโต๊ะพร้อมผ็าปูโต๊ะ (เงินปาล์น)",
+    "amount": 138000,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T06:58:51.179Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าเบี้ยประกันภัยรถยนต์ 2 คัน กค3796 สตูล นข 837 สตูล",
+    "amount": 37000,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:00:21.580Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าใช้สอย ค่าไฟฟ้าห้องเรียนหลีเป๊ะ เดือนมีนาคม 2569",
+    "amount": 1925,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:01:49.580Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าใช้สอย ค่าบริการโทรศัพท์ โทรคมนาคมแห่งชาติ จำกัด (มหาชน)",
+    "amount": 38640.36,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:02:56.324Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าใช้สอย ค่าบริการไปรษณีย์ เดือนมีนาคม 2569",
+    "amount": 1005,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:03:42.812Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าสาธารณูปโภค",
+    "voucher_no": "บจ10/69",
+    "description": "ค่าไฟฟ้าเดือนมกราคม ,กุมภาพันธ์ 2569",
+    "amount": 373756.44,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:06:14.516Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ3/69",
+    "description": "ค่าวัสดุ สีพ่น,ทินเนอร์,แปรงลูกกลิ้ง",
+    "amount": 905,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:07:48.836Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าวัสดุ ท่อpvc, ท่อง้อ,ข้อต่อเกลียวใน",
+    "amount": 1212,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:09:09.612Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ5/69",
+    "description": "ค่าวัสดุ แป๊ปโปรง, แป๊ปน้ำบาง",
+    "amount": 1156,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:10:05.924Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ6/69",
+    "description": "ค่าวัสดุ แป๊ปโปรง,บานพับชุบ,กลอนขวาง",
+    "amount": 826,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:11:31.964Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ7/69",
+    "description": "ค่าวัสดุ สีพ่นอุตสหกรรม",
+    "amount": 695,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:12:16.404Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ8/69",
+    "description": "ค่าวัสดุ ครัซ,จานแรงเหวียงเช้ค,แท่นสตาร์ท ฯลน",
+    "amount": 2195,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:13:36.260Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ9/69",
+    "description": "ค่าวัสดุ กล่องเก็บของ 160 L มีล้อ",
+    "amount": 2274,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:14:28.125Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ10/69",
+    "description": "พานพุ่มดอกไม้",
+    "amount": 600,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:15:09.405Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าครุภัณฑ์ กล้องวงจรปิด Tapo รุ่น c220, สวิซอัพ 8 port ฯลฯ",
+    "amount": 10998,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:17:02.389Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าครุภัณฑ์",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าครุภัณฑ์ เก้าอี้ทำงานพนังพิงด้ามนวม",
+    "amount": 990,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:18:33.405Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บข13/69",
+    "description": "ค่าใช้สอย ไปราชการนายฉุดดีน สันง๊ะและคณะ",
+    "amount": 2760,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:19:27.468Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ14/69",
+    "description": "ค่าใช้สอย ค่าจ้างซักผ้าล้อมรั้ว",
+    "amount": 2380,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:20:25.453Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ15/69",
+    "description": "ค่าใช้สอย ค่าจ้างซ่อมประตูเหล็ก,ติดตั้งฝ้าเพดาน",
+    "amount": 2940,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:21:18.029Z"
+  },
+  {
+    "money_type": "เงินอุดหนุน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ16/69",
+    "description": "ค่าใช้สอย ค่าจ้างเปลี่ยนโช๊คประตูสวิงพร้อมติดตั้ง",
+    "amount": 6950,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:22:29.989Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ1/69",
+    "description": "ค่าวัสดุ หนังสือสอนภาษาไทยแนวสมดุลภาษารวมสูตร กฎ ทฤษฎี คณิตศาสตร์,สารบีนเครื่องชด ฯลฯ",
+    "amount": 13516,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:24:41.437Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ2/69",
+    "description": "ค่าวัสดุ กระเช้า",
+    "amount": 500,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:25:57.413Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ3/69",
+    "description": "ค่าใชสอยไปราขการนางกีรติ หมาดทิ้งและคณะ",
+    "amount": 3980,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:26:58.101Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ11/69",
+    "description": "ค่าใช้สอย  จัดซ่อมระบบไฟฟ้ารถตู้ Toyota นข837 สตูล",
+    "amount": 2800,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:28:22.573Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ12/69",
+    "description": "ค่าใช้สอย ค่าอาหารและเครื่องดื่ม. ค่าอาหารว่าง(2,200) ค่าใช้สอย เงินรางวัลการแข่งขันROV STW E-Sport 2026 (2,400)( เงินค่าคอมพิวเตอร์)",
+    "amount": 4600,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:32:05.749Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "บจ13/69",
+    "description": "ค่าใช้สอย ค่าอาหารว่างและอาหารกลางวันสำหรับครูและนักเรียน กิจกรรมสัมนาโครงงาน ม.5/1 (เงินห้องเรียนพิเศษ SMTE ม.ปลาย)",
+    "amount": 4290,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:35:19.334Z"
+  },
+  {
+    "money_type": "เงินรายได้",
+    "expense_category": "ค่าใช้สอย",
+    "voucher_no": "14/69",
+    "description": "ค่าใช้สอย ค่าซ่อมรถหกล้อ (เงินค่าปาล์ม)",
+    "amount": 1289.35,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T07:36:36.942Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าวัสดุHP-26411 frame-10*10 (300) ค่าวัสดุ หุ้นประดับ (358) ค่าวัสดุ โคมไฟหัวเสา ฯลฯ (714) ค่าวัสดุปลั๊กเสียบตัวผู้,สายไฟอ่อน ฯลฯ(825) ค่าวัสดุ ลูกโป่งกลมกากเพชร (382) ค่าวัสดุ ถุงมือตรวจโรค,แถบตรวจน้ำตาล ฯลฯ(470) ค่าวัสดุ ถุงมือพลาสติก,กล่องR3} ถาดขนม ฯลฯ (662) ค่าวัสดุ กระดาษโน๊ต(105) ค่าวัสดุ พลาสติกลูกฟูก,เทปโฟมกาว,ฯลฯ (69) ค่าวัสดุ กระดาษบรู๊ฟ (60) ค่าวัสดุ เหล็กสี่เหลี่ยมฯลฯ (765.05) ค่าวัสดุ แก๊สกระป๋อง,เตาแก๊สปิกนิค(1811) ค่าวัสดุ น้ำแพ็ค, น้ำ(406) ค่าวัสดุ ถ้วยรางวัล (1320) ค่าวัสดุ ถุงกระดาษน้ำตาล (269) ค่าวัสดุ Evileye, น้ำเงิน ชมพู ฯลฯ(850) ค่าวัสดุ 60x90cm เลขsku:ฮังการี (378) ค่าวัสดุ  Magic Cube SFW06A,MAgic cube YJ8718(128) ค่าวัสดุ สีน้ำอะคริลิค(175) ค่าวัีสดุ HP-26414-frame-20*20 cm-new(546) ค่าวัสดุ ท่อ pvc 3/4 x13.5\", สามทางฉาก",
+    "amount": 58953.05,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T08:03:42.023Z"
+  },
+  {
+    "money_type": "เงินกิจกรรมพัฒนาผู้เรียน",
+    "expense_category": "ค่าวัสดุ",
+    "voucher_no": "บจ4/69",
+    "description": "ค่าวัสดุ ท่อ pvc 3/4 x13.5\", สามทางฉาก ฯลฯ (1385) ค่าวัสดุ กระดาษถ่ายเอกสาร 80g , สายรัดพลาสติก,ฯลฯ (368) ค่าวัสดุ เลย์ร็อค,เลย์คลาสสิค,ฟันโอฯลฯ(995) ค่าใช้สอย ป้ายไวนิลมลายู,การงานอาชีพฯลฯ (34812) ค่าใช้สอย จ้างเหมาเครื่องเสียง(5000) ค่าใช้สอย ค่าเหมาจัดเตรียมสถานที่เต็นท์และโต๊ะ(5800)",
+    "amount": 58953.05,
+    "month": 6,
+    "year": 2569,
+    "created_at": "2026-07-28T08:10:55.192Z"
+  }
+]
